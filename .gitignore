@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+# competition data supplied by the organisers (not redistributed)
+data/
+output/

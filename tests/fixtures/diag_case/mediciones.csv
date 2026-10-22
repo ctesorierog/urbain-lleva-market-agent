@@ -1,0 +1,7 @@
+measurement_id,asset_id,signal_id,month,recorded_at,value,unit,source,kind,operating_condition
+PRACTICE-group_spread_v,BAT-01,group_spread_v,8,M08 / ensayo didáctico independiente,0.308,V,synthetic-practice,inspection,Dispersión de grupos en reposo tras estabilización; A120 R1 intensivo
+PRACTICE-capacity_ah,BAT-01,capacity_ah,8,M08 / ensayo didáctico independiente,9.4,Ah,synthetic-practice,inspection,Capacidad obtenida en ensayo controlado completo; A120 R1 intensivo
+PRACTICE-sense_error_v,BAT-01,sense_error_v,8,M08 / ensayo didáctico independiente,0.022,V,synthetic-practice,inspection,Diferencia entre BMS y medición independiente; A120 R1 intensivo
+PRACTICE-group_min_v,BAT-01,group_min_v,8,M08 / ensayo didáctico independiente,3.65,V,synthetic-practice,inspection,Mínimo de grupos medido independientemente en reposo; A120 R1 intensivo
+PRACTICE-group_max_v,BAT-01,group_max_v,8,M08 / ensayo didáctico independiente,3.93,V,synthetic-practice,inspection,Máximo de grupos medido independientemente en reposo; A120 R1 intensivo
+PRACTICE-soc_error_pct,BAT-01,soc_error_pct,8,M08 / ensayo didáctico independiente,2.3,%,synthetic-practice,inspection,Diferencia de SOC frente a referencia del ensayo; A120 R1 intensivo
