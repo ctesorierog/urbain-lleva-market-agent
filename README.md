@@ -49,4 +49,4 @@ Python, LangChain agents, REST APIs, JSON Schema validation, pandas.
 
 ## Team
 
-**urbAIn**: Carlos Tesoriero (service plan, marketing, integration) and Luca (negotiation, diagnosis). The same team also built [flAIre](../flaire-wildfire-access-agent), a top-3 project in the hackathon's first phase.
+**urbAIn**: Carlos Tesoriero (service plan, marketing, integration) and Luca (negotiation, diagnosis). The same team also built [flAIre](https://github.com/ctesorierog/flaire-wildfire-access-agent), a top-3 project in the hackathon's first phase.
